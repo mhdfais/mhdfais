@@ -4,20 +4,17 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+%5BYour+Name%5D;MERN+Stack+Developer;Passionate+Coder;Problem+Solver;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+%5BYour+Name%5D;MERN+Stack+Developer;Passionate+Coder;Problem+Solver;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://yourwebsite.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/mohammed-fais-tm-97a377313/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mhdfaistm@gmail.com">
     <img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
@@ -31,27 +28,14 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "Mohammed Fais TM",
   title: "Fullstack Developer",
   specialization: "MERN Stack",
-  location: "Your Location",
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  location: "Malappuram",
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
   currentFocus: "Building scalable web applications",
   funFact: "I can code for 8 hours straight but can't decide what to eat for lunch",
-  hobbies: ["Coding", "Reading", "Hiking", "Photography"],
+  hobbies: ["Coding", "Gaming", "Hiking"],
   favoriteQuote: "Code is like humor. When you have to explain it, it's bad."
 };
-<!--
-**mhdfais/mhdfais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
