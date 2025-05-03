@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 <div align="center">
@@ -24,6 +26,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## 💫 About Me
 
 I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I love building scalable web applications and elegant user interfaces. With a strong foundation in JavaScript and its ecosystem, I strive to write clean, maintainable code that solves real-world problems.
@@ -33,6 +39,8 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - 📫 Reach me at: **your.email@gmail.com**
 - ⚡ Fun fact: **[Something Interesting About You]**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +56,10 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -59,6 +71,8 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 </a>
 </div>
 <br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
@@ -72,6 +86,10 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -96,7 +114,13 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 Achievements
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif" width="100"/>
+</div>
 
 - 🌟 **[Achievement 1]**
 - 🏅 **[Achievement 2]**
@@ -118,8 +142,14 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
   </a>
 </div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
