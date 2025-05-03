@@ -119,17 +119,15 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 </div>
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--
 ## 🏆 Achievements
+-->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif" width="100"/>
-</div>
-
+<!--
 - 🌟 **[Achievement 1]**
 - 🏅 **[Achievement 2]**
 - 🎯 **[Achievement 3]**
-
+->
 ## 📫 Let's Connect!
 
 I'm always interested in new opportunities and collaborations. Feel free to reach out!
@@ -153,7 +151,10 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif" width="100"/>
+</div>
+<br />
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
