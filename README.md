@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+%5BMohammed+Fais+TM%5D;MERN+Stack+Developer;Passionate+Coder;Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Mohammed+Fais+TM;MERN+Stack+Developer;Passionate+Coder;Problem+Solver;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mohammed-fais-tm-97a377313/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mhdfaistm@gmail.com">
+  <a href="mhdfaistm@gmail.com">
     <img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
