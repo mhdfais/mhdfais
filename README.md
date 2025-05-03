@@ -127,7 +127,7 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 - 🌟 **[Achievement 1]**
 - 🏅 **[Achievement 2]**
 - 🎯 **[Achievement 3]**
-->
+-->
 ## 📫 Let's Connect!
 
 I'm always interested in new opportunities and collaborations. Feel free to reach out!
