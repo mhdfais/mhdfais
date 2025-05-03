@@ -61,9 +61,10 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<!--
 ## 🌟 Featured Projects
-
+-->
+<!--
 <div align="center">
 <a href="https://github.com/mhdfais/project1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdfais&repo=project1&theme=aura&show_icons=true" />
@@ -73,7 +74,7 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 </a>
 </div>
 <br />
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
@@ -95,9 +96,10 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
 </div>
 
 <br />
-
+<!--
 ## 📌 Pinned Repositories
-
+-->
+<!--
 <div align="center">
 <a href="https://github.com/mhdfais/project1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdfais&repo=project1&theme=aura&show_icons=true" />
@@ -115,7 +117,7 @@ I'm a passionate full-stack developer with expertise in the MERN stack (MongoDB,
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdfais&repo=project4&theme=aura&show_icons=true" />
 </a>
 </div>
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements
