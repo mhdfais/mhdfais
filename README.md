@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hello World, I'm Mohammed Fais TM
+# 🌟 Hello World, I'm Mohammed Fais TM
 
 ### Full Stack Developer | MERN Specialist | JavaScript Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=mhdfais&style=flat-square&color=purple)
 
 </div>
 
@@ -13,8 +13,8 @@
 
 I'm a passionate full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy creating scalable web applications and elegant user interfaces. 
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 Reach me at: **mhdfaistm@gmail.com**
+- 💬 **Ask me about:** React, Node.js, MongoDB, Express
+- 📫 **Reach me at:** [mhdfaistm@gmail.com](mailto:mhdfaistm@gmail.com)
 
 
 ## 🛠️ Tech Stack
