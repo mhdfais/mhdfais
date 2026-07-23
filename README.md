@@ -1,60 +1,90 @@
 <div align="center">
 
-# Hello World, I'm Mohammed Fais TM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=200&section=header&text=Mohammed%20Fais%20TM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-### Full Stack Developer | MERN Specialist | JavaScript Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
+<a href="https://www.linkedin.com/in/mohammed-fais-tm-97a377313/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mhdfaistm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mhdfais&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
 
-## 💫 About Me
+### 👋 Hey, I'm Fais — I build things for the web.
 
-I'm a passionate full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy creating scalable web applications and elegant user interfaces. 
+```typescript
+const faisTM = {
+  role: "Full Stack Developer",
+  stack: "MERN (MongoDB · Express · React · Node.js)",
+  focus: ["Scalable APIs", "Clean UI/UX", "Type-safe code"],
+  currentlyLearning: "Advanced TypeScript & System Design",
+  funFact: "I debug better with coffee ☕ in hand",
+};
+```
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 Reach me at: **mhdfaistm@gmail.com**
+- 🚀 I turn ideas into full-stack applications — from database schema to pixel-perfect UI
+- 💬 Ask me about **React, Node.js, MongoDB, Express, TypeScript**
+- 🌱 Currently sharpening my skills in scalable architecture & TypeScript
+- 📫 Reach me at **mhdfaistm@gmail.com**
+- ⚡ Fun fact: **I love connecting with new people — say hi, I'll happily meet you!**
 
+<br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,tailwind,html,css,git,github,vscode,postman,figma,vercel&theme=dark" />
+
 </div>
 
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdfais&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdfais&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdfais&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhdfais&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&ring_color=8B5CF6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdfais&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdfais&theme=dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&date_format=j%20M%5B%20Y%5D" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdfais&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%"/>
+
 </div>
 
+<br/>
 
-## 📫 Let's Connect!
-
-I'm always interested in new opportunities and collaborations. Feel free to reach out!
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammed-fais-tm-97a377313/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mhdfaistm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhdfais&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+
 </div>
 
-<div align="center">
-  <em><b>I love connecting with different people!</b> If you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-</div>
+<br/>
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+I'm always open to interesting conversations, collaborations, and opportunities.
+**If you want to say hi, I'll be happy to meet you! :)**
+
+<a href="https://www.linkedin.com/in/mohammed-fais-tm-97a377313/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mhdfaistm@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hi%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer"/>
+
 </div>
